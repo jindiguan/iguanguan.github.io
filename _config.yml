@@ -6,10 +6,10 @@
 # Site
 title: NexT
 subtitle:
-description:
-author: John Doe
+description:在去探险的路上从来没有老司机，只有偶遇的同路人。
+author: JindiGuan
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
@@ -151,10 +151,11 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
+language：zh-Hans
 
 # ---------------------------------------------------------------
 # Font Settings
@@ -226,9 +227,9 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  GitHub: https://github.com/jindiguan
+  Twitter: https://twitter.com/JindiGG
+  #Weibo:
 
 
 # Sidebar Avatar
@@ -314,7 +315,7 @@ post_meta:
   updated_at: false
   categories: true
 
-# Post wordcount display settings
+ #Post wordcount display settings
 post_wordcount:
   item_text: true
   wordcount: false
@@ -456,7 +457,7 @@ duoshuo_info:
   ua_enable: true
   admin_enable: false
   user_id: 0
-  #admin_nickname: Author
+  admin_nickname: Jindi
 
 
 # Facebook SDK Support.
